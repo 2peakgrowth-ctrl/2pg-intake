@@ -277,6 +277,8 @@ with col2:
 st.markdown(
     '<div style="text-align:center;font-size:12px;color:#9CA3AF;'
     'padding:24px 0">2Peak Growth · Kent / Renton / Tacoma, WA · '
-    'hello@2peakgrowth.com</div>',
+    '2peakgrowth@gmail.com</div>',
     unsafe_allow_html=True,
 )
+
+

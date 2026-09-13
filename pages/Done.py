@@ -40,7 +40,7 @@ st.markdown("""
   </div>
   <div style="margin-top:32px;font-size:13px;color:#9CA3AF">
     Questions? Email us at
-    <a href="mailto:hello@2peakgrowth.com"
+    <a href="mailto:2peakgrowth@gmail.com"
        style="color:#1A1A1A;font-weight:600">2peakgrowth@gmail.com</a>
   </div>
   <div style="margin-top:48px;font-size:22px;font-weight:800;color:#1A1A1A">

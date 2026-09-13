@@ -36,7 +36,7 @@ st.markdown("""
     <div style="margin-bottom:6px">1. We review your intake details</div>
     <div style="margin-bottom:6px">2. We build your site draft</div>
     <div style="margin-bottom:6px">3. You get a preview link to review</div>
-    <div>4. Final adjustments → your site goes live</div>
+    <div>4. Final adjustmentsm then your site goes live</div>
   </div>
   <div style="margin-top:32px;font-size:13px;color:#9CA3AF">
     Questions? Email us at

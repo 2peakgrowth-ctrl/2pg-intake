@@ -124,8 +124,10 @@ def get_business(rc_id: str) -> dict:
     if not rc_id:
         return {}
     try:
+        # The column is `name`. `business_name` is web_leads' column,
+        # not this table's.
         resp = (_sb().table("businesses")
-                .select("rc_id,business_name,city,phone")
+                .select("rc_id,name,city,phone")
                 .eq("rc_id", rc_id).limit(1).execute())
         return (resp.data or [{}])[0]
     except Exception:
